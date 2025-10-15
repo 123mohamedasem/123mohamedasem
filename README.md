@@ -1,3 +1,24 @@
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Mohamed Assem</h1>
+<h3 align="center">🚀 Junior Data Engineer | Passionate about Data & Automation</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-asem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<!-- About Section -->
+### 🧠 About Me  
+- 🎓 I'm a **Biomedical Informatics graduate** passionate about **Data Engineering** and **Analytics**  
+- 💼 Currently working as a **Junior Data Engineer**  
+- 💻 Skilled in **Python**, **SQL**, and **ETL Tools (SSIS, Talend)**  
+- 📊 Love turning raw data into insights using **Power BI** & **Tableau**  
+- 📫 Reach me at: **zydan8362@gmail.com**
+
+---
+
+<!-- Skills Section -->
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center">
@@ -26,8 +47,20 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Azure_Data_Factory_logo.svg" height="40" alt="ADF" />
 </p>
 
-<!-- Social links -->
-<h3 align="center">🌐 Connect With Me 🌐</h3>
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-asem&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-asem&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
+
+---
+
+<!-- Connect With Me -->
+<h2 align="center">🌐 Connect With Me 🌐</h2>
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-asem-649640300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,3 +69,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+<!-- Footer -->
+<h4 align="center">⭐ Don't forget to star my repositories if you like my work! ⭐</h4>
