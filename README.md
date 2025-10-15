@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Mohamed Assem</h1>
-<h3 align="center">🚀 Junior Data Engineer | Passionate about Data & Automation</h3>
+<h3 align="center">🚀 Junior Data Analysis  | Passionate about Data & Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohamed-asem&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,7 +11,7 @@
 <!-- About Section -->
 ### 🧠 About Me  
 - 🎓 I'm a **Biomedical Informatics graduate** passionate about **Data Engineering** and **Analytics**  
-- 💼 Currently working as a **Junior Data Engineer**  
+- 💼 Currently working as a **Junior Data Analysis**  
 - 💻 Skilled in **Python**, **SQL**, and **ETL Tools (SSIS, Talend)**  
 - 📊 Love turning raw data into insights using **Power BI** & **Tableau**  
 - 📫 Reach me at: **zydan8362@gmail.com**
