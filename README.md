@@ -1,40 +1,38 @@
-<!-- README.md (HTML allowed in GitHub README) -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamed-zedan.mohamed-zedan">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mohamed+Asem....;Data+Analyst+%26+Junior+Data+Engineer&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mohamed-asem-649640300/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/mohamed-zedan" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
-  <code><a href="https://kaggle.com" title="Kaggle (optional)"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg"> Kaggle</a></code>
-  <code><a href="mailto:zydan8362@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"> Email</a></code>
-</h5>
-<br>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center">
-  Hi, I'm <b>Mohamed Asem</b>, Junior Data Engineer & Data Analyst from Egypt.
-  <br><br>
-  🎯 Background: Biomedical Informatics / Computer Science — focusing on Data Engineering, ETL, SQL and Python.
-  <br>
-  💻 Tools I use: Python, SQL, Pandas, NumPy, Power BI, Tableau, Apache Spark, Airflow, SSIS/Talend, Git, Docker.
-  <br>
-  💬 Ask me anything — open an issue in my GitHub or send me an email.
-  <br>
-  📫 How to reach me: <a href="mailto:zydan8362@gmail.com">zydan8362@gmail.com</a>
+  <!-- Data Languages -->
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL Server" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SSIS_logo.png" height="40" alt="SSIS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/SSRS_logo.png" height="40" alt="SSRS" />
+  
+  <!-- Visualization Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau" />
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888846.png" height="40" alt="Excel" />
+  
+  <!-- Data Engineering Tools -->
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Apache_Spark_logo.svg" height="40" alt="Apache Spark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" height="40" alt="Airflow" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Azure_Data_Factory_logo.svg" height="40" alt="ADF" />
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages, Frameworks & Data Tools 🔥</h2>
-<br>
+<!-- Social links -->
+<h3 align="center">🌐 Connect With Me 🌐</h3>
 <p align="center">
-  <!-- icons from devicon CDN (may load automatically on GitHub) -->
-  <code><img title="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-  <code><img title="Pandas" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
-  <code><img title="NumPy" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
-  <code><img title="SQL (PostgreSQL)" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-  <code><img title="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-  <code><img title="Power BI" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg"><
+  <a href="https://linkedin.com/in/mohamed-asem-649640300" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zydan8362@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
